@@ -28,7 +28,7 @@
 
 - 📫 How to reach me *nntivari11111@gmail.com*
 
-- 🌏 Visit to me **[portfolio](https://golden-nasturtium-9e417f.netlify.app/)**
+- 🌏 Visit to me **[portfolio](https://nageshwar-portfolio.netlify.app/)**
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/nntivari11111)
 
